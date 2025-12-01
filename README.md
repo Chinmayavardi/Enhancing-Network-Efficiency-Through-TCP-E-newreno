@@ -1,8 +1,5 @@
 # TCP ENewReno: Enhancing Network Efficiency in High-Density Networks
 
-![NS-2](https://img.shields.io/badge/Simulator-NS--2-blue)
-![Language](https://img.shields.io/badge/Language-C%2B%2B%20%7C%20TCL-orange)
-![Domain](https://img.shields.io/badge/Domain-Networking%20%7C%20Congestion%20Control-green)
 
 ## 📄 Abstract
 **TCP ENewReno** is a novel TCP variant designed to enhance congestion control efficiency in high-density and delay-sensitive network environments (such as 5G). Unlike traditional TCP variants (Reno/NewReno) that rely solely on packet loss or basic heuristics, ENewReno introduces an **adaptive congestion avoidance mechanism**. 
